@@ -1,10 +1,14 @@
 # MPROJECT 1
 
-[Image cut](https://online.inpixio.com)
+[Image cut](https://www.inpixio.com/remove-background/)
 
 [image](https://www.photopea.com/)
 
-- [ ] background-image:linear-gradient
+- [x] background-image:linear-gradient
 
-- [ ] background-image:url()
-- [ ] text-decoration
+- [x] background-image:url()
+- [x] text-decoration
+- [x] background-repeat
+- [x] backgroud-position
+- [x] box-shadow
+- [ ] border-image:linear-gradient(angle, color1, color2)----->border-image-slice:1
